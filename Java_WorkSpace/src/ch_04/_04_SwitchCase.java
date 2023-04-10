@@ -79,5 +79,26 @@ public class _04_SwitchCase {
                 System.out.println("장학금 대상 아님");
         }
         System.out.println("조회완료#3");
+
+        //중고상품의 등급에 따른 가격을 책정 (1급 : 최상, 4급 최하)
+        int grade = 1;
+        int price = 7000;
+        switch (grade){
+            case 1:
+                price += 1000; // price = price + 1000
+            case 2:
+                price += 1000; // price = price + 1000
+            case 3:
+                price += 1000; // price = price + 1000
+                break;
+        }
+        //break가 없어서 계속 1000원씩 더함 //reult = 10000원
+        System.out.println(grade+"제품의 등급의 가격: "+ price);
+
+        //어떤 범위에 해당하는 값을 쓸때는 if
+        //if else문을 이용( 여러 조건 또는 범위에 해당하는 조건)
+
+        //명확한 어떤 값으로 나와질때는 swith case
+        //switch case 문을 이용 (명확한 케이스가 있는경우)
     }
     }
