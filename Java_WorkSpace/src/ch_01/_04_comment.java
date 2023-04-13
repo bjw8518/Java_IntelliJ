@@ -9,7 +9,6 @@ public class _04_comment {
         int size = 120;
         size = size+10;
 
-
         System.out.println("give"+size+"plz");
 
 
