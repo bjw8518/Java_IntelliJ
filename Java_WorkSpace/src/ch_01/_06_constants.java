@@ -7,6 +7,6 @@ public class _06_constants {
         System.out.println(KR_COUNTRY_CODE);
 
         final double pie = 3.141592;
-        final String date_Of_Brith = "1998_03_10";
+        final String date_Of_Brith = "1991_01_01";
     }
 }
