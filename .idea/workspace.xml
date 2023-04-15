@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3b39661-a3b1-458d-886b-b90e7fd93598" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_05_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_06_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_07_DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_08_NestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_09_multipleTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_10_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_11_Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_Quiz_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Life_coding/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Life_coding/Life_coding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Life_coding/src/JavaTutorials/LoopDepthDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/Java_study/HWY_01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/Java_study/HWY_01/HWY_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/Java_study/HWY_01/src/defalut/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/Java_study/out/production/HWY_01/defalut/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_01_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_02_ArrayLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_03_MultiArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_04_MultiArrayLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_WorkSpace/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/Java_study/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_WorkSpace/Java_study/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_03/_Quiz_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_03/_Quiz_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_Quiz_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_Quiz_04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +83,7 @@
       <workItem from="1681206125197" duration="12901000" />
       <workItem from="1681383224758" duration="2886000" />
       <workItem from="1681387292824" duration="2292000" />
+      <workItem from="1681524618647" duration="15912000" />
     </task>
     <servers />
   </component>
