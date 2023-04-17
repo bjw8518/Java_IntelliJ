@@ -9,30 +9,47 @@ public class _04_MultiArrayLoop {
                 {"C1", "C2", "C3", "C4", "C5"}
         };
 
-        for (int i = 0; i < 3; i++) {
-            for (int j = 0; j < 5; j++) {
-                System.out.print(seats[i][j]+" ");
+        for (int i = 0; i < 3; i++) {   //세로
+            for (int j = 0; j < 5; j++) {   //가로
+                System.out.print(seats[i][j]+" "); //A1 A2 A3...
             }
             System.out.println("");
-
         }
-        System.out.println("=====================================");
-
+        System.out.println("==============================================");
         String[][] seats2 = {
                 {"A1","A2","A3"},
                 {"B1","B2","B3","B4"},
                 {"C1","C2","C3","C4","C5"},
         };
 
-
-        for (int i = 0; i < seats2.length; i++) {
-            for (int j = 0; j < seats2[i].length; j++) {    //i인덱스만큼 증가?
-                System.out.print(seats2[i][j]+" ");
+        for (int i = 0; i < seats2.length; i++) {   //세로
+            for (int j = 0; j < seats2[i].length; j++) {   //가로 //중요!!!!!!!!!
+                System.out.print(seats2[i][j]+" "); //A1 A2 A3...
             }
             System.out.println("");
-
         }
 
+        System.out.println("===================================================");
+        //세로크기 10 X 가로크기15
+        String [][]seats3 = new String[10][15]; //[세로] [가로]
+        String []eng = {"A","B","C","D","E","F","G","H","I","J"};
+        for (int i = 0; i < seats3.length; i++) {
+            for (int j = 0; j < seats3[i].length; j++) {
+                seats3[i][j]  = eng[i]+(j+1);   //영문자
+            }
+        }
+        System.out.println("");
 
+        //표구매
+        seats3[7][8]  = "__";   //값 변경가능
+        seats3[7][9]  = "___";
+
+        //영화관 좌석 번호 확인
+        for (int i = 0; i < seats3.length ; i++) {
+            for (int j = 0; j < seats3[i].length; j++) {
+                System.out.print(seats3[i][j] + " ");
+            }
+            System.out.println(""); //7 8
+        }
     }
 }
