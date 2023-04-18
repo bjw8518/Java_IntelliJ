@@ -33,6 +33,12 @@ public class _03_MultiArray {
                 {"B1","B2","B3","B4"},
                 {"C1","C2","C3","C4","C5"},
         };
+        int [][] arr2= {
+                {1},
+                {1,2},
+                {1,2,3}
+        };
+        System.out.println(arr2[3][2]);
 
         //A3에 접근하려면?
         System.out.println(seats2[0][2]);
