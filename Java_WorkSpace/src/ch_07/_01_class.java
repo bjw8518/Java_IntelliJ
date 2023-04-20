@@ -6,6 +6,7 @@ public class _01_class {
         //  유지보수 유지
         //  높은 재사용성
 
+
         String modelName = "까망이";
         String resolution = "QHD";
         int price = 200000;
