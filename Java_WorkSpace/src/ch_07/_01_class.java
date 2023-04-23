@@ -12,6 +12,16 @@ public class _01_class {
         int price = 200000;
         String color = "Black";
 
+        //새로운 제품을 개발
+        String modelName2 = "하양이";
+        String resolution2 = "UHD";
+        int price2 = 30000;
+        String color2 = "white";
+
+        //BlackBox라는 클래스로부터 bbox라는 객체 생성
+        BlackBox bbox = new BlackBox();
+        BlackBox bbox2 = new BlackBox();
+
 
     }
 }
