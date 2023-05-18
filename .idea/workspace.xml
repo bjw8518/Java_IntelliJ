@@ -5,117 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3b39661-a3b1-458d-886b-b90e7fd93598" name="변경" comment="230419_commit">
-      <change afterPath="$PROJECT_DIR$/Java_Tutorials/src/Number_String/CharString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Tutorials/src/Number_String/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/Java_WorkSpace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Tutorials/Java_Tutorials.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_01/_01_DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_01/_01_DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_01/_02_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_01/_02_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_01/_04_comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_01/_04_comment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_01/_05_variable_naming.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_01/_05_variable_naming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_01/_06_constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_01/_06_constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_01/_07_typecasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_01/_07_typecasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_01/_quiz_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_01/_quiz_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_02/_01_operator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_02/_01_operator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_02/_02_operator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_02/_02_operator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_02/_03_operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_02/_03_operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_02/_04_operator4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_02/_04_operator4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_02/_05_operator5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_02/_05_operator5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_02/_Quiz_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_02/_Quiz_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_03/_01_String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_03/_01_String1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_03/_02_String2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_03/_02_String2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_03/_03_StringCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_03/_03_StringCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_03/_04_EscapeSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_03/_04_EscapeSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_03/_Quiz_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_03/_Quiz_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_01_IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_01_IF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_02_Else.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_02_Else.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_03_ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_03_ElseIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_04_SwitchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_04_SwitchCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_05_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_05_for.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_06_while.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_06_while.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_07_DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_07_DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_08_NestedLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_08_NestedLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_09_multipleTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_09_multipleTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_10_Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_10_Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_11_Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_11_Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_04/_Quiz_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_04/_Quiz_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_01_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_05/_01_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_02_ArrayLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_05/_02_ArrayLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_03_MultiArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_05/_03_MultiArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_04_MultiArrayLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_05/_04_MultiArrayLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_05_ASCII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_05/_05_ASCII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_05/_Quiz_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_05/_Quiz_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_01_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_01_Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_02_Parameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_02_Parameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_03_Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_03_Return.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_04_ParameterAndRetrun.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_04_ParameterAndRetrun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_05_Overloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_05_Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_06_WhenToUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_06_WhenToUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_07_variableScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_07_variableScope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_08_MainMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_08_MainMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_06/_Quiz_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_06/_Quiz_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_07/BlackBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_07/BlackBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_07/_01_class.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_07/_01_class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_07/_02_instanceVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_07/_02_instanceVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_07/_03_ClassVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_07/_03_ClassVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_07/_04_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_07/_04_Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_WorkSpace/src/ch_07/_05_MethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/src/ch_07/_05_MethodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Life_coding/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Tutorials/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Life_coding/Life_coding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Nado/Java_Nado.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Life_coding/src/JavaTutorials/LoopDepthDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_01/_01_DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_01/_02_Variables.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_01/_04_comment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_01/_05_variable_naming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_01/_06_constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_01/_07_typecasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_01/_quiz_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_02/_01_operator1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_02/_02_operator2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_02/_03_operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_02/_04_operator4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_02/_05_operator5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_02/_Quiz_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_03/_01_String1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_03/_02_String2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_03/_03_StringCompare.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_03/_04_EscapeSequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_03/_Quiz_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_01_IF.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_02_Else.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_03_ElseIf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_04_SwitchCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_05_for.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_06_while.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_07_DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_08_NestedLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_09_multipleTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_10_Break.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_11_Continue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_04/_Quiz_04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_05/_01_Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_05/_02_ArrayLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_05/_03_MultiArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_05/_04_MultiArrayLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_05/_05_ASCII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_05/_Quiz_05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_06/_01_Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_06/_02_Parameter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_06/_03_Return.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_06/_04_ParameterAndRetrun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_06/_05_Overloading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_06/_06_WhenToUse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_06/_07_variableScope.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_IntelliJ/ch_06/_08_MainMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life_coding/JavaTutorials/LoopDepthDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,30 +33,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Users/SMART07/Documents/WORKSPACE/Java_IntelliJ",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/SMART07/Documents/WORKSPACE/Java_IntelliJ/Java_Nado/src/Main.java",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SMART07/Documents/WORKSPACE/Java_IntelliJ&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/SMART07/Documents/WORKSPACE/Java_IntelliJ/Java_Nado/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch_04" />
@@ -189,7 +79,11 @@
       <workItem from="1682066489991" duration="7223000" />
       <workItem from="1684137037196" duration="171000" />
       <workItem from="1684137230575" duration="128000" />
-      <workItem from="1684137375160" duration="2633000" />
+      <workItem from="1684137375160" duration="2734000" />
+      <workItem from="1684193871324" duration="1454000" />
+      <workItem from="1684199750506" duration="596000" />
+      <workItem from="1684366684683" duration="29000" />
+      <workItem from="1684366769806" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="230415_commit">
       <created>1681547086043</created>
@@ -205,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681861189163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="230419_commit">
+      <created>1684140357477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684140357477</updated>
+    </task>
+    <task id="LOCAL-00004" summary="230419_commit">
+      <created>1684140371566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684140371566</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
